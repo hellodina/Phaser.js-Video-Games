@@ -1,3 +1,5 @@
+//Contains the game’s settings
+
 const config = {
   type: Phaser.AUTO,
   width: 480,
