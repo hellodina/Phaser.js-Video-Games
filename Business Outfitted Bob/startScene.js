@@ -1,3 +1,5 @@
+/*Contains the code that displays the starting screen to the user before they play the game. */
+
 class StartScene extends Phaser.Scene {
   constructor() {
     super({ key: 'StartScene' })
