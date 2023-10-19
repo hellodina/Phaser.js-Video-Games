@@ -1,3 +1,5 @@
+/*displays the game as well as contains the logic for controlling Bob’s movement, scoring points and ending the game.*/
+
 const gameState = {
   numCoordinates: {},
 };
