@@ -1,4 +1,4 @@
-**Race Day**
+# Race Day
 Codecademy’s annual race is just around the corner! This year, we have a lot of participants. You have been hired to write a program that will register runners for the race and give them instructions on race day.
 
 As a timeline, registration would look like this:registration-timeline
