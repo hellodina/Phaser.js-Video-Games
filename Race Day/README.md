@@ -1,5 +1,5 @@
 # Race Day
-Codecademy’s annual race is just around the corner! This year, we have a lot of participants. You have been hired to write a program that will register runners for the race and give them instructions on race day.
+Codecademy’s annual race is just around the corner! This year, we have a lot of participants. I have been hired to write a program that will register runners for the race and give them instructions on race day.
 
 As a timeline, registration would look like this:registration-timeline
 
@@ -15,4 +15,4 @@ Adult registrants run at 9:30 am or 11:00 am.
 Early adults run at 9:30 am.
 Late adults run at 11:00 am.
 Youth registrants run at 12:30 pm (regardless of registration).
-But we didn’t plan for runners that are exactly 18! We’ll handle that by the end of the project.
+
